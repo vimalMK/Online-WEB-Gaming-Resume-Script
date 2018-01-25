@@ -1,6 +1,6 @@
 # Online-WEB-Gaming-Resume-Script
 
-A Really cool way to showcase resume in Web:
+A Really cool way to showcase my resume in Website:
 
 ![alt text](https://github.com/vimalMK/Online-WEB-Gaming-Resume-Script/blob/master/1.JPG)
 ![alt text](https://github.com/vimalMK/Online-WEB-Gaming-Resume-Script/blob/master/2.JPG)
