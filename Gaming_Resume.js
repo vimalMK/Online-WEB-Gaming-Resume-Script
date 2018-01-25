@@ -3,15 +3,9 @@ $(document).ready(function(){
 	var count=0;
 	var i=0;
 	var j=0;
-var s1,s2,s3,s4,s5;
-	//$('#gifPlane').sprite({fps: 1, no_of_frames: 3});
+        var s1,s2,s3,s4,s5;
 	$("#unicorn").pan({fps:30,speed:1.5,dir:'left'});
-
-// 	$("#containerone").hide();
-// 	$("#containertwo").hide();
-// 	$("#containerthree").hide();
-// 	$("#containerfour").hide();
-	$("#resume").hide();
+        $("#resume").hide();
 	$("#thread").hide();
 	$("#thread1").hide();
 	$("#eduTT").hide();
@@ -51,24 +45,14 @@ var s1,s2,s3,s4,s5;
 	,8000);
 
 	
-
-		
-		
-	
 	$(".continue").click(function(){
-		
-		
+				
 		$(".mirror").css('-webkit-filter','blur(0px');
-		
-		
+			
 	});
 	//$("#launch").click(function(){
 		
-		
-			
-		
-		
-		$("#stage").pan({fps:30,speed:1.5,dir:'left'});
+	       $("#stage").pan({fps:30,speed:1.5,dir:'left'});
 		$("#background").pan({fps:60,speed:1.5,dir:'left'});
 		$("#unicorn").pan({fps:30,speed:1.5,dir:'left'});
 	   	$("#planets").pan({fps:30,speed:2,dir:'down'});
@@ -160,18 +144,11 @@ var s1,s2,s3,s4,s5;
 								 
 						 		$("#unicorn").spChangeDir('down');
 						 		$("#unicorn").css("background-repeat","repeat");
-
 						 		$("#unicorn").css("height","1500px");
-
-
-
-
 								$("#background").fadeOut(500)
-								  $("#grass").fadeOut(500);
-
-									$("#ground").fadeOut(500);
-
-								  $("#bench").fadeOut(500);
+								 $("#grass").fadeOut(500);
+								$("#ground").fadeOut(500);
+								 $("#bench").fadeOut(500);
 						  $("#leaf").hide(3000);
 						  $("#interactiveresume").css('top','+=32');
 
@@ -189,15 +166,7 @@ var s1,s2,s3,s4,s5;
 				  $("#bench").spSpeed(5);
 	 				$("#bri").removeClass('bri1').addClass('bri');
 	 				$("#smallstart").removeClass('bri1').addClass('bri');
-
-
-					
-					
 				count++;
-				
-				
-				
-				
 				if(count==54)
 					{
 
@@ -266,9 +235,7 @@ var s1,s2,s3,s4,s5;
 				$("#leaf").fadeOut(1000);
 				
 				}
-				
-				
-				
+						
 if(count==320)
 	{
 	$("#scriptingLan1").addClass('scriptingLan1');
