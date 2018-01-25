@@ -1,3 +1,9 @@
+/* Author: VIMAL MOORTHY KRISHNAMOORTHY
+	********GAMING RESUME SCRIPT*******
+	
+	*/
+
+
 $(document).ready(function(){
 
 	var count=0;
