@@ -1,6 +1,6 @@
 # Online-WEB-Gaming-Resume-Script 
 
-#VISIT : www.spotvimal.com/resume.html
+#CLICK TO PLAY : www.spotvimal.com/resume.html
 
 A Really cool way to showcase my resume in Website:
 
